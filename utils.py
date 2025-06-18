@@ -23,3 +23,16 @@ climate_keywords = [
     "emissions reduction", "energy efficiency", "circular economy", "climate resilience",
     "climate adaptation strategies", "climate risk", "climate governance"
 ]
+
+color_dict = {
+  'Health': '#5470C6',
+  'Environment': '#2E7D32',
+  'Industrie': '#73C0DE',
+  'Fundamental': '#FAC858',
+  'Digital_Economy': '#EE6666',
+  'Energy': '#91CC75',
+  'Food_Agriculture': "#98A23B",
+  'Space': '#FC8452',
+  'Transport': '#9A60B4',
+  'Society': '#EA7CCC'
+}

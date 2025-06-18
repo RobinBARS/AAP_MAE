@@ -1,0 +1,21 @@
+# Ignore le dossier CSV
+CSV/
+
+# Ignore le cache Python
+__pycache__/
+
+# Ignore les fichiers temporaires Python
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore les fichiers Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Ignore les fichiers de logs ou temporaires
+*.log
+*.tmp
+
+# Ignore les fichiers système
+.DS_Store
+Thumbs.db
