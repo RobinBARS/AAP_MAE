@@ -1,5 +1,6 @@
 # Ignore le dossier CSV
 CSV/
+exports/
 
 # Ignore le cache Python
 __pycache__/
