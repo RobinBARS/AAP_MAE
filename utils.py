@@ -1,10 +1,3 @@
-# climate_keywords = [
-#     "climate change", "global warming", "carbon emissions", "greenhouse gases",
-#     "climate adaptation", "climate mitigation", "net zero", "decarbonisation",
-#     "resilience to climate", "sustainability", "climate policy", "Paris Agreement",
-#     "climate action", "low-carbon", "energy transition", "climate crisis"
-# ]
-
 climate_keywords = [
     "climate change", "global warming", "carbon emissions", "greenhouse gases",
     "climate adaptation", "climate mitigation", "net zero", "decarbonisation",
