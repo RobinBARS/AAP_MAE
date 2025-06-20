@@ -1,22 +1,13 @@
-# Ignore le dossier CSV
-CSV/
-exports/
+# Ignore tout
+*
 
-# Ignore le cache Python
-__pycache__/
+# Autoriser les dossiers nécessaires
+!ANR/
+!CORDIS/
 
-# Ignore les fichiers temporaires Python
-*.pyc
-*.pyo
-*.pyd
+# Autoriser les .ipynb uniquement
+!ANR/*.ipynb
+!CORDIS/*.ipynb
 
-# Ignore les fichiers Jupyter checkpoints
-.ipynb_checkpoints/
-
-# Ignore les fichiers de logs ou temporaires
-*.log
-*.tmp
-
-# Ignore les fichiers système
-.DS_Store
-Thumbs.db
+# Autoriser .gitignore
+!.gitignore
