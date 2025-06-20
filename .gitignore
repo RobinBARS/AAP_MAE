@@ -11,3 +11,4 @@
 
 # Autoriser .gitignore
 !.gitignore
+!README.md
